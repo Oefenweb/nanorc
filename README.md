@@ -1,15 +1,15 @@
 Unmaintained
 ============
 
-I am no longer using nano as my editor and hence have little motivation
-to continue working on this project. It remains available on GitHub for
-archival purposes only.
+The original maintainer of this project no longer uses nano and hence
+has very little motivation to continue working on it. It remains
+available on GitHub for archival purposes only.
 
-Everything in the repository is in the Public Domain. Feel free to fork
-it and/or use the files for any purpose.
+I highly recommend using [dte] as a simple but much more capable editor.
 
-P.S. I highly recommend [dex](https://github.com/tihirvon/dex) as a
-simple but much more capable editor.
+[dte] screenshot:
+
+![dte screenshot](https://craigbarnes.gitlab.io/dte/screenshot.png)
 
 
 ------
@@ -140,6 +140,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <http://unlicense.org/>
 
 
+[dte]: https://github.com/craigbarnes/dte
 [GNU nano]: http://www.nano-editor.org/
 [nanorc]: http://www.nano-editor.org/dist/v2.3/nanorc.5.html
 [theme.sed]: https://github.com/nanorc/nanorc/tree/master/theme.sed
